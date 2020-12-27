@@ -1,2 +1,4 @@
 # Test of child branch
-print("This was created from the child branch")
+
+for i in range(3):
+  print(i)
